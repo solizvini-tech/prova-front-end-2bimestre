@@ -1,0 +1,48 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+input{
+    
+    height: 10%;
+    width: 80%;
+    
+}
+
+.button{
+    position: absolute;
+    top: 0;
+    left: 0;
+
+}
+.voltar{
+    border-radius: 9px;
+    background-color: rgb(57, 232, 23);
+    border: 2px transparent rgb(8, 188, 59);
+    height: 30px;
+    width: 100px;
+    margin-top: 2rem;
+}
+
+.botao2{
+    position: relative;
+    top: -30px;
+    left: 1100px;
+    
+}
+
+.botao22{
+    border-radius: 9px;
+    background-color: rgb(57, 232, 23);
+    border: 2px transparent rgb(8, 188, 59);
+    height: 30px;
+    width: 100px;
+}
